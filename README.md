@@ -1,18 +1,42 @@
-# digital-marketing-prompts
-A curated collection of AI prompts for Digital Marketing, including Meta Ads, Google Ads, Content Marketing, SEO, Email Marketing, LinkedIn, Copywriting, and more.
-# Digital Marketing Prompts
+# 🚀 Digital Marketing Prompts
 
-A curated collection of AI prompts for:
+A curated collection of advanced AI prompts for digital marketers, agencies, freelancers, consultants, founders, and performance marketers.
 
-- Meta Ads
-- Google Ads
-- Content Marketing
-- SEO
-- LinkedIn Marketing
-- Copywriting
-- Email Marketing
-- Sales Funnels
-- YouTube Marketing
-- Ad Creatives
+---
 
-Built by Manoj Ayyagari.
+# 📂 Categories
+
+## Google Ads
+- [Google Ads Prompts](google-ads/prompts.md)
+
+## Meta Ads
+- [Meta Ads Prompts](meta-ads/prompts.md)
+
+## SEO
+- [SEO Prompts](seo/prompts.md)
+
+## Content Marketing
+- [Content Marketing Prompts](content-marketing/prompts.md)
+
+## Copywriting
+- [Copywriting Prompts](copy-writing/prompts.md)
+
+## Funnels
+- [Funnels Prompts](funnels/prompts.md)
+
+---
+
+# 👨‍💻 Who Is This For?
+
+- Digital Marketers
+- Agencies
+- Freelancers
+- Startup Founders
+- Performance Marketers
+- Consultants
+
+---
+
+# ⭐ Support This Repository
+
+If you found this repository useful, consider giving it a star.
