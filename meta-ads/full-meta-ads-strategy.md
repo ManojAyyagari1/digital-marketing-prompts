@@ -165,3 +165,4 @@ Digital Marketer & Performance Marketing Strategist with 8+ years of experience
 
 🌐 https://manojayyagari.com
 🚀 https://portfolio.manojayyagari.com
+📝 https://blog.manojayyagari.com
